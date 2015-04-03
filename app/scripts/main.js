@@ -3,7 +3,7 @@ var oLayer;
 var data = [{name: "软件学院", content:"来看马戏团吧！", url:"http://www.baidu.com"},
   {name: "汽车系", content:"来看车夜狂欢吧！", url:"http://www.baidu.com"},
   {name: "数学系", content:"来看独树一帜吧！", url:"http://www.baidu.com"},
-  {name: "我不知道", content:"来看我不知道吧！", url:"http://www.baidu.com"}];
+  {name: "精仪系", content:"来看奇艺秘境吧！", url:"http://www.baidu.com"}];
 
 collie.util.addEventListener(window, "load", function () {
   var htParams = collie.util.queryString();

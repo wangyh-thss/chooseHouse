@@ -1,9 +1,9 @@
 var oLayer;
 
-var data = [{name: "软件学院", content:"来看马戏团吧！", url:"http://www.baidu.com"},
+var data = [{name: "软件学院", content:"来看马戏团吧！", url:"http://mp.weixin.qq.com/s?__biz=MjM5NDMyNzcwNQ==&mid=203849019&idx=1&sn=6295552c5ba954df07dbe710d0959045&scene=1&key=b2574200810f04e8dcc36c8a2fbde92f821070539ce09348f9489b462d764f9a1452db324c5f3964b365ab47eddc3816&ascene=0&uin=MTU2MjU5OTY2MQ%3D%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.10.2+build(14C1514)&version=11020012&pass_ticket=%2FariYXlEZ%2Bzcfzaab6F9flk4VSlNGMyatgh6QzNukhuumNzQIAjh54zvsB%2BNSHNa"},
   {name: "汽车系", content:"来看车夜狂欢吧！", url:"http://www.baidu.com"},
   {name: "数学系", content:"来看独树一帜吧！", url:"http://www.baidu.com"},
-  {name: "精仪系", content:"来看奇艺秘境吧！", url:"http://www.baidu.com"}];
+  {name: "精仪系", content:"来看奇艺秘境吧！", url:"http://chuye.cloud7.com.cn/1880520?from=timeline&isappinstalled=0"}];
 
 collie.util.addEventListener(window, "load", function () {
   var htParams = collie.util.queryString();
